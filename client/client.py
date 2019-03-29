@@ -1,3 +1,4 @@
+# Author Forest Vey
 import socket, sys, os
 
 def sendFileSize(fileSize):
